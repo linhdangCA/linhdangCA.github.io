@@ -30,7 +30,7 @@ twitter_username: linhdangCA
 github_username:  linhdangCA
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
